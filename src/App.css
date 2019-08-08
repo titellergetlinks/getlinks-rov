@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  margin-top: 40px;
+  animation: App-logo-spin infinite 20s linear;
+  width: 39px;
+  height: 39px;
+  pointer-events: none;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.App-teams {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 700px;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.App-teams > * {
+  flex-grow: 1;
+  width: calc(50% - 25px);
+  margin-bottom: 50px;
+}
+
+.App-teams > *:nth-child(odd) {
+  margin-right: 25px;
+}
+
+.App-teams > *:nth-child(even) {
+  margin-left: 25px;
+}
