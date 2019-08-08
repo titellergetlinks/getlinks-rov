@@ -2,7 +2,7 @@
   "name": "getlinks-rov",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://titellergetlinks.github.io/getlinks-rov/",
+  "homepage": "http://titellergetlinks.github.io/getlinks-rov/",
   "dependencies": {
     "gh-pages": "^2.1.0",
     "lodash": "^4.17.15",
@@ -15,7 +15,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
