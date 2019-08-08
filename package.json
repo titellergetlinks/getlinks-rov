@@ -2,7 +2,7 @@
   "name": "getlinks-rov",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://getlinks-rov.github.io",
+  "homepage": "https://titellergetlinks.github.io/getlinks-rov/",
   "dependencies": {
     "gh-pages": "^2.1.0",
     "lodash": "^4.17.15",
