@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/getlinks-rov/static/css/main.e14dabbe.chunk.css",
+    "main.js": "/getlinks-rov/static/js/main.9eabc1b1.chunk.js",
+    "main.js.map": "/getlinks-rov/static/js/main.9eabc1b1.chunk.js.map",
+    "runtime~main.js": "/getlinks-rov/static/js/runtime~main.16ec70c6.js",
+    "runtime~main.js.map": "/getlinks-rov/static/js/runtime~main.16ec70c6.js.map",
+    "static/js/2.59151370.chunk.js": "/getlinks-rov/static/js/2.59151370.chunk.js",
+    "static/js/2.59151370.chunk.js.map": "/getlinks-rov/static/js/2.59151370.chunk.js.map",
+    "index.html": "/getlinks-rov/index.html",
+    "precache-manifest.750b57fcf7624a1b9f024e13a94b2586.js": "/getlinks-rov/precache-manifest.750b57fcf7624a1b9f024e13a94b2586.js",
+    "service-worker.js": "/getlinks-rov/service-worker.js",
+    "static/css/main.e14dabbe.chunk.css.map": "/getlinks-rov/static/css/main.e14dabbe.chunk.css.map"
+  }
+}
